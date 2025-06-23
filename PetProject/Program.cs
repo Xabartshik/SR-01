@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Это демонстрация выполненной самостоятельной работы из классной работы 1!");
         }
     }
 }
